@@ -1,5 +1,7 @@
 # Time Series Forecasting Using the Decomposition Technique
 
+*Tools Used: Python (Jupiter Notebook)*
+
 ## Introduction
 This report presents an analysis of airline passenger data using time series decomposition techniques. The dataset includes monthly records of airline passengers in the United States from 1949 to 1960. The objective of this study is to examine historical trends and seasonality to forecast passenger numbers for the final year (1960) and assess forecasting accuracy.
 
